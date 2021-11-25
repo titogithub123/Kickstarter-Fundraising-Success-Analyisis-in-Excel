@@ -14,3 +14,8 @@
   
   What time of year and what month(s), specifically would be best to launch the campaign to ensure maximum success?  
   ```
+The most challenging aspect was knowing how to take the sheer volume of raw kickstarter data (see image below) and converting it into useful knowledge that could intellegintly be analyzed and interpreted to make valid recomendations that would indeed help our friend, Louise to succesfully find funding for her play. 
+
+(<img width="953" alt="Screenshot 2021-11-25 143135" src="https://user-images.githubusercontent.com/93171738/143505299-63c97897-64ab-4bf7-b4ec-8545f9a10331.png">)
+
+jjjj
