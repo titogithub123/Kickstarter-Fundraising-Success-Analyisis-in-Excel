@@ -44,3 +44,5 @@ B. She now knows that she needs to have all of her ducks in a row by May 1st, so
 The next question we had to answer was finding out the optimal dollar amount range that Louise should ask for as her goal amount. If the goal is not set right she could find herself where a majority or 60% of the unsuccesful campaigns lived, at the bottom of the charts. 
 
 So we cycled through all the theatre and plays data using countifs command to determine the most successful dollar amount ranges asked accoriding to the date. What we discovered was in one way totally expected and in another, surprising in a good way. 
+
+<img width="560" alt="outcomebasedongoals" src="https://user-images.githubusercontent.com/93171738/143512203-bed24886-d8ec-48f8-b8b9-dcf91bb16345.png">
