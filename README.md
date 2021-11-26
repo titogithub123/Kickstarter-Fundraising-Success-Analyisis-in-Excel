@@ -46,3 +46,7 @@ The next question we had to answer was finding out the optimal dollar amount ran
 So we cycled through all the theatre and plays data using countifs command to determine the most successful dollar amount ranges asked accoriding to the date. What we discovered was in one way totally expected and in another, surprising in a good way. 
 
 <img width="560" alt="outcomebasedongoals" src="https://user-images.githubusercontent.com/93171738/143512203-bed24886-d8ec-48f8-b8b9-dcf91bb16345.png">
+
+
+
+'what is the correlation between months of the year and success.. why is it so successful in may? And, why is there a gap from <$5000 to right around $25K sweet spot.. what is it about the $25K sweet spot that makes it special?
