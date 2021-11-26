@@ -7,7 +7,7 @@
 ### Analysis and Challenges
   Our analysis was completed by sorting through the vast sea of kickstarter data and honing in on only the most relevent pieces of information that would  answer the follwing questions in the **Theatre/Plays** catagory:
   ```
-  What time of year and what month(s), specifically would be best to launch the campaign to ensure maximum success? 
+  What time of year and what month(s), specifically would be best to launch the campaign to ensure maximum success?
   
   And,
   
