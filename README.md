@@ -21,3 +21,8 @@ The most challenging aspect was knowing how to take the sheer volume of raw kick
 To solve this challenge and to make sense of the large amount of data, specifically, in terms of the information we were looking for, I used statistical calculations (***see image below***) to locate the ranges where prior campaigns in the theatre and plays catagory had found success. By knowing what had worked before in the past and equally important, knowing what had ***not*** worked in the past, we could make future suppositions as to what would still work, today with all other things being equal. 
 
 <img width="350" alt="statistics" src="https://user-images.githubusercontent.com/93171738/143509470-4f00b2ec-a524-4772-82da-cf3ce14af9c5.png">
+
+Having completed the steps above, we were now ready to apply the statistical findings to the filtered and refined theatre/plays campaigns data and drill down to the core factors that would answer the questions (***above***) to the problem we had set out to solve. 
+
+### Results
+dfdfd
