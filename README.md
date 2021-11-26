@@ -28,4 +28,17 @@ Having completed the steps above, we were now ready to apply the statistical fin
 ### Results
 The first question we wanted to answer was to see what time of year and specifically, what month(s) had shown to have the higest number of successful campaigns to give us an idea when it would be best suited for Louise to lauch her crowdfunding campaign. 
 
-This 
+This question led us to create a pivot table where we could filter the isolated theatre and plays data, allowing us to create a line chart to visually represent the optimum times to launch a successful campaign. 
+
+<img width="535" alt="outcome months" src="https://user-images.githubusercontent.com/93171738/143510976-a913fe15-dfe5-4fe9-a4d9-6fa8cab2e947.png">
+
+As you can see from the chart, the time of year when most campaigns were successful was in mid-spring, and, specficially the month of May was when the most successful campaigns were launched. Knowing this we could deduce two key action plans that would help to improve the chances of Louise having a successful launch and campaign. 
+
+```
+A. She could start preparing in September, as that is when activity begins to slow down for the year, 
+   in anticipation for a successful launch. 
+
+B. She now knows that she needs to have all of her ducks in a row by May 1st, so that she can give herself 
+   the best odds of raising the money necessary to stage her play. 
+```
+
