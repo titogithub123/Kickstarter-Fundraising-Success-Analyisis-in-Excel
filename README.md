@@ -7,18 +7,19 @@
 ### Analysis and Challenges
   Our analysis was completed by sorting through the vast sea of kickstarter data and honing in on only the most relevent pieces of information that would  answer the follwing questions in the **Theatre/Plays** catagory:
   ```
-  What dollar amount would be best to strive for as a Kickstarter goal to ensure the highest probablilty of success meeting 
-  that goal through pledged amounts?
+  What time of year and what month(s), specifically would be best to launch the campaign to ensure maximum success? 
   
-  And, 
+  And,
   
-  What time of year and what month(s), specifically would be best to launch the campaign to ensure maximum success?  
+  What dollar amount would be best to strive for as a Kickstarter goal to ensure the highest probablilty of success? 
   ```
 The most challenging aspect was knowing how to take the sheer volume of raw kickstarter data (***see image below***) and convert it into useful knowledge that could intellegintly be analyzed and interpreted to make valid recomendations that would indeed help our friend, Louise to succesfully find funding for her play. 
 
 <img width="949" alt="sheer_amount" src="https://user-images.githubusercontent.com/93171738/143505530-afd95b05-a58a-4876-8824-1be71b394157.png">
 
-To solve this challenge and to make sense of the large amount of data, specifically, in terms of the information we were looking for, I used statistical calculations (***see image below***) to locate the ranges where prior campaigns in the theatre and plays catagory had found success. By knowing what had worked before in the past and equally important, knowing what had ***not*** worked in the past, we could make future suppositions as to what would still work, today with all other things being equal. 
+To solve this challenge and to make sense of the large amount of data, specifically, in terms of the information we were looking for, I used statistical calculations (***see image below***) to locate the ranges where prior campaigns in the theatre and plays catagory had found success. 
+
+By knowing what had worked before in the past and equally important, by knowing what had ***not*** worked in the past, we could make future suppositions as to what would still work, today with all other things being equal. 
 
 <img width="350" alt="statistics" src="https://user-images.githubusercontent.com/93171738/143509470-4f00b2ec-a524-4772-82da-cf3ce14af9c5.png">
 
