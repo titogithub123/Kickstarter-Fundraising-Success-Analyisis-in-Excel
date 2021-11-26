@@ -19,3 +19,5 @@ The most challenging aspect was knowing how to take the sheer volume of raw kick
 <img width="949" alt="sheer_amount" src="https://user-images.githubusercontent.com/93171738/143505530-afd95b05-a58a-4876-8824-1be71b394157.png">
 
 To solve this challenge and to make sense of the large amount of data, specifically, in terms of the information we were looking for, I used statistical calculations (***see image below***) to locate the ranges where prior campaigns in the theatre and plays catagory had found success. By knowing what had worked before in the past and equally important, knowing what had ***not*** worked in the past, we could make future suppositions as to what would still work, today with all other things being equal. 
+
+<img width="350" alt="statistics" src="https://user-images.githubusercontent.com/93171738/143509470-4f00b2ec-a524-4772-82da-cf3ce14af9c5.png">
