@@ -41,4 +41,6 @@ A. She could start preparing in September, as that is when activity begins to sl
 B. She now knows that she needs to have all of her ducks in a row by May 1st, so that she can give herself 
    the best odds of raising the money necessary to stage her play. 
 ```
+The next question we had to answer was finding out the optimal dollar amount range that Louise should ask for as her goal amount. If the goal is not set right she could find herself where a majority or 60% of the unsuccesful campaigns lived, at the bottom of the charts. 
 
+So we cycled through all the theatre and plays data using countifs command to determine the most successful dollar amount ranges asked accoriding to the date. What we discovered was in one way totally expected and in another, surprising in a good way. 
