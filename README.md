@@ -26,4 +26,6 @@ By knowing what had worked before in the past and equally important, by knowing 
 Having completed the steps above, we were now ready to apply the statistical findings to the filtered and refined theatre/plays campaigns data and drill down to the core factors that would answer the questions (***above***) to the problem we had set out to solve. 
 
 ### Results
-dfdfd
+The first question we wanted to answer was to see what time of year and specifically, what month(s) had shown to have the higest number of successful campaigns to give us an idea when it would be best suited for Louise to lauch her crowdfunding campaign. 
+
+This 
