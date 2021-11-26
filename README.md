@@ -45,7 +45,7 @@ The next question we had to answer was finding out the optimal dollar amount ran
 
 So we cycled through all the theatre and plays data using countifs command to determine the most successful dollar amount ranges asked accoriding to the date. What we discovered was in one way totally expected and in another, surprising in a good way. 
 
-<img width="560" alt="outcomebasedongoals" src="https://user-images.githubusercontent.com/93171738/143512203-bed24886-d8ec-48f8-b8b9-dcf91bb16345.png">
+<img width="689" alt="outcome based on goals" src="https://user-images.githubusercontent.com/93171738/143656978-37704340-10a7-45c1-bf18-4e9980b4b253.png">
 
 
 
