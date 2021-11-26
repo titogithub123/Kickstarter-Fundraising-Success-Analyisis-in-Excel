@@ -56,3 +56,5 @@ If she is looking to just scrape by with the minumum funding possible she should
 These two ranges have proven to be the most successful as to the asked for goal amount. 
 
 'what is the correlation between months of the year and success.. why is it so successful in may? And, why is there a gap from <$5000 to right around $25K sweet spot.. what is it about the $25K sweet spot that makes it special?
+
+
