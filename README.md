@@ -47,6 +47,12 @@ So we cycled through all the theatre and plays data using countifs command to de
 
 <img width="689" alt="outcome based on goals" src="https://user-images.githubusercontent.com/93171738/143656978-37704340-10a7-45c1-bf18-4e9980b4b253.png">
 
+As you can see from the line chart above we find that, just as we might expect, there a large percentage of successful kickstarter campaigns (approx. 70%) betweeen less than a thousand and five thousand dollars. As we can imagine people are more inclined to donate money when a goal seems attainable. A $5000 dollar goal would fall into the catagory of attainable. 
 
+However, what I did find surprising about the results was a jump to about the 60% success rate for goals in the $35K to $45K range. This is telling as it will inform Louise's decision making process. 
+
+If she is looking to just scrape by with the minumum funding possible she should set her goal at less than $5,000. However, If she is ready to take a leap of faith and is confident in her plays ability to connect with people then she may consider setting her goal higher to the, $35,000 - $45,000 range. 
+
+These two ranges have proven to be the most successful as to the asked for goal amount. 
 
 'what is the correlation between months of the year and success.. why is it so successful in may? And, why is there a gap from <$5000 to right around $25K sweet spot.. what is it about the $25K sweet spot that makes it special?
