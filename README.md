@@ -1,11 +1,11 @@
 # Kickstarter-Fundraising-Success-Analyisis-in-Excel
 ## *Analysis of Kickstarter Crowdfunding Success and Failure rates 2009-2017 in Excel*
 ### Overview of Project
-  This project intends to work with data from worldwide Kickstarter crowdfunding campaigns in various catagories in an attempt to extract information that can provide valuabe insight in regards to the Success and Failure rates of distinct kickstarter projects. 
+  This project intends to work with data from worldwide Kickstarter crowdfunding campaigns in various categories in an attempt to extract information that can provide valuable insight in regards to the Success and Failure rates of distinct Kickstarter projects.
 ### Purpose
-  The purpose of this anaysis is to use the vast amount of kickstarter crowdfunding campaign data available to us to help our dear friend, Louise determine the **Best** stratagey moving forward to help fund her play, ***Fever*** which she has worked so hard to bring to fruition. 
+ The purpose of this analysis is to use the vast amount of Kickstarter crowdfunding campaign data available to us to help our dear friend, Louise determine the Best strategy moving forward to help fund her play, ***Fever*** which she has worked so hard to bring to fruition. 
 ### Analysis and Challenges
-  Our analysis was completed by sorting through the vast sea of kickstarter data and honing in on only the most relevent pieces of information that would  answer the follwing questions in the **Theatre/Plays** catagory:
+ Our analysis was completed by sorting through the vast sea of Kickstarter data and honing in on only the most relevant pieces of information that would answer the following questions in the **Theatre/Plays** category:
   ```
   What time of year and what month(s), specifically would be best to launch the campaign to ensure maximum success?
   
