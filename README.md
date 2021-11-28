@@ -59,7 +59,7 @@ These two ranges have proven to be the most successful as to the asked for goal 
 
 Although there was much insight to be gleaned in our analysis on kickstarter crowdfunding campaigns, I feel there is still more information that can be extracted from the data we have available. With further investigation I am sure we can find deeper insights and concrete actionable steps that will lead Lousie, and many others for that matter, to make wise decisions when it comes to launching their hoped for, succeessful crowdfunding campaign. 
 
-For Louise, specficially I would be very interestred to discover the reason why their is a 60% success rate at the $35k to $45k level when it was down less than 20% just $10K less in the $25k range. If she can discover what it is that makes these particular campaigns enticing to donors, she would then be able to mimic what they did to be successful and claim a goal on the higher end of the spectrum which, can only help her chances of finally launching **Fever**.
+For Louise, specficially I would be very interestred to discover the reason why their is a 60% success rate at the $35k to $45k level when it was down less than 20% just $10K less in the $25k range. If she can discover what it is that makes these particular campaigns enticing to donors, she would then be able to mimic what they did to be successful and claim a goal on the higher end of the spectrum which, can only help her chances of finally launching her play, ***Fever***.
 
 
 
