@@ -11,13 +11,13 @@
   
   And,
   
-  What dollar amount would be best to strive for as a Kickstarter goal to ensure the highest probablilty of success? 
+  What dollar amount would be best to strive for as a Kickstarter goal to ensure the highest probability of success? 
   ```
-The most challenging aspect was knowing how to take the sheer volume of raw kickstarter data (***see image below***) and convert it into useful knowledge that could intellegintly be analyzed and interpreted to make valid recomendations that would indeed help our friend, Louise to succesfully find funding for her play. 
+The most challenging aspect was knowing how to take the sheer volume of raw Kickstarter data (***see image below***) and convert it into useful knowledge that could intelligently be analyzed and interpreted to make valid recommendations that would indeed help our friend, Louise to successfully find funding for her play. 
 
 <img width="949" alt="sheer_amount" src="https://user-images.githubusercontent.com/93171738/143505530-afd95b05-a58a-4876-8824-1be71b394157.png">
 
-To solve this challenge and to make sense of the large amount of data, specifically, in terms of the information we were looking for, I used statistical calculations (***see image below***) to locate the ranges where prior campaigns in the theatre and plays catagory had found success. 
+To solve this challenge and to make sense of the large amount of data, specifically, in terms of the information we were looking for, I used statistical calculations (***see image below***) to locate the ranges where prior campaigns in the theatre and plays category had found success. 
 
 By knowing what had worked before in the past and equally important, by knowing what had ***not*** worked in the past, we could make future suppositions as to what would still work, today with all other things being equal. 
 
@@ -26,13 +26,13 @@ By knowing what had worked before in the past and equally important, by knowing 
 Having completed the steps above, we were now ready to apply the statistical findings to the filtered and refined theatre/plays campaigns data and drill down to the core factors that would answer the questions (***above***) to the problem we had set out to solve. 
 
 ### Results
-The first question we wanted to answer was to see what time of year and specifically, what month(s) had shown to have the higest number of successful campaigns to give us an idea when it would be best suited for Louise to lauch her crowdfunding campaign. 
+The first question we wanted to answer was to see what time of year and specifically, what month(s) had shown to have the highest number of successful campaigns to give us an idea when it would be best suited for Louise to launch her crowdfunding campaign 
 
 This question led us to create a pivot table where we could filter the isolated theatre and plays data, allowing us to create a line chart to visually represent the optimum times to launch a successful campaign. 
 
 <img width="535" alt="outcome months" src="https://user-images.githubusercontent.com/93171738/143510976-a913fe15-dfe5-4fe9-a4d9-6fa8cab2e947.png">
 
-As you can see from the chart, the time of year when most campaigns were successful was in mid-spring, and, specficially the month of May was when the most successful campaigns were launched. Knowing this we could deduce two key action plans that would help to improve the chances of Louise having a successful launch and campaign. 
+As you can see from the chart, the time of year when most campaigns were successful was in mid-spring, and, specifically the month of May was when the most successful campaigns were launched. Knowing this we could deduce two key action plans that would help to improve the chances of Louise having a successful launch and campaign. 
 
 ```
 A. She could start preparing in September, as that is when activity begins to slow down for the year, 
