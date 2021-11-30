@@ -49,9 +49,9 @@ So we cycled through all the theatre and plays data using countifs command to de
 
 As you can see from the line chart above, we find that, just as we might expect, there a large percentage of successful Kickstarter campaigns (approx. 70%) between less than a thousand and five thousand dollars. As we can imagine people are more inclined to donate money when a goal seems attainable. A $5000 dollar goal would fall into the category of attainable. 
 
-However, what I did find surprising about the results was a jump to about the 60% success rate for goals in the $35K to $45K range. This is telling as it will inform Louise's decision-making process. 
+However, what I did find surprising about the results was a jump to about the 60% success rate for goals in the ***$35K to $45K range***. This is telling as it will inform Louise's decision-making process. 
 
-If she is looking to just scrape by with the minimum funding possible, she should set her goal at less than $5,000. However, if she is ready to take a leap of faith and is confident in her plays ability to connect with people then she may consider setting her goal higher to the, $35,000 - $45,000 range. 
+If she is looking to just scrape by with the minimum funding possible, she should set her goal at less than $5,000. However, if she is ready to take a leap of faith and is confident in her plays ability to connect with people then she may consider setting her goal higher to the, **$35,000 - $45,000 range.** 
 
 These two ranges have proven to be the most successful as to the asked for goal amount. 
 
@@ -59,7 +59,7 @@ These two ranges have proven to be the most successful as to the asked for goal 
 
 Although there was much insight to be gleaned in our analysis on Kickstarter crowdfunding campaigns, I feel there is still more information that can be extracted from the data we have available. With further investigation I am sure we can find deeper insights and concrete actionable steps that will lead Louise, and many others for that matter, to make wise decisions when it comes to launching their hoped for, successful crowdfunding campaign. 
 
-For Louise, specifically I would be very interested to discover the reason why there is a 60% success rate at the $35k to $45k level when it was down less than 20% just $10K less in the $25k range. If she can discover what it is that makes these campaigns enticing to donors, she would then be able to mimic what they did to be successful and claim a goal on the higher end of the spectrum which, can only help her chances of finally launching her play, ***Fever***.
+For Louise, specifically I would be very interested to discover the reason why there is a 60% success rate at the ***$35k to $45k*** level when it was down less than 20% just $10K less in the $25k range. If she can discover what it is that makes these campaigns enticing to donors, she would then be able to mimic what they did to be successful and claim a goal on the higher end of the spectrum which, can only help her chances of finally launching her play, ***Fever***.
 
 
 
