@@ -1,5 +1,8 @@
 # Kickstarter-Fundraising-Success-Analyisis-in-Excel
-## *Analysis of Kickstarter Crowdfunding Success and Failure rates 2009-2017 in Excel*
+## *Analysis of Worldwide Kickstarter Crowdfunding Success and Failure rates 2009-2017 in Excel.*
+
+<img width="653" alt="README kickstarter header image" src="https://user-images.githubusercontent.com/93171738/144171262-14e00235-b2cf-4708-98de-3b955ccd2040.png">
+
 ### Overview of Project
   This project intends to work with data from worldwide Kickstarter crowdfunding campaigns in various categories in an attempt to extract information that can provide valuable insight in regards to the Success and Failure rates of distinct Kickstarter projects.
 ### Purpose
@@ -61,5 +64,5 @@ Although there was much insight to be gleaned in our analysis on Kickstarter cro
 
 For Louise, specifically I would be very interested to discover the reason why there is a 60% success rate at the ***$35k to $45k*** level when it was down less than 20% just $10K less in the $25k range. If she can discover what it is that makes these campaigns enticing to donors, she would then be able to mimic what they did to be successful and claim a goal on the higher end of the spectrum which, can only help her chances of finally launching her play, ***Fever***.
 
-
-
+### Conclusion
+Our friend, Louise has a very good opportunity of cashing in on the Kickstarter data we were able to clean up and analyize. According to our research it seems there is a strong possiblilty of finding success in the 
