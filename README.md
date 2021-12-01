@@ -67,4 +67,4 @@ For Louise, specifically I would be very interested to discover the reason why t
 ### Conclusion
 Our friend, Louise has a very good opportunity of cashing in on the Kickstarter data we were able to clean up and analyize. According to our research it seems there is a strong possiblilty of finding success in the month of May for the $1000 to $5000 dollar goal amount. This would be a nice amount to get her started on the basics of being able to launch her play.
 
-If she was further along in the development of her play she could, potentially increase the goal amount she asks for to the $35,000 
+If she was further along in the development of her play she could, potentially increase the goal amount she asks for to the ***$35,000 to $45,000*** range and have an approx. 75% chance of finding success. By further studying the data to find what unique factors the 'successful' plays possesed, she can increase her chances of funding her dream through the magic of crowdfunding Kickstarter campaigns. 
